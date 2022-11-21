@@ -1,0 +1,3 @@
+Deployment on Web Application on PAAS Git hub link -https://github.com/AletiHemanthSatish/Bench-assignment-Tejas
+
+Deployemet on AKS - I have started my research on it but i did not have an active subscription

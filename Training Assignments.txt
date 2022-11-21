@@ -1,0 +1,5 @@
+Traning Assignments
+
+Assignment 1 - https://github.com/AletiHemanthSatish/Chat_Application
+Training Case Study ---> FrontEnd- https://github.com/AletiHemanthSatish/PharmacyUI
+                    ---> BackEnd- https://github.com/AletiHemanthSatish/PharmacyBackendAPI
